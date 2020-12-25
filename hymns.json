@@ -1,60 +1,61 @@
 [
   {
-    "Title": "Hymn 001",
+    "title": "Hymn 001",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    
   
   },
   {
-    "Title": "Hymn 002",
+    "title": "Hymn 002",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
    {
-    "Title": "Hymn 003",
+    "title": "Hymn 003",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
   {
-    "Title": "Hymn 004",
+    "title": "Hymn 004",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
    {
-    "Title": "Hymn 005",
+    "title": "Hymn 005",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
    {
-    "Title": "Hymn 006",
+    "title": "Hymn 006",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
   {
-    "Title": "Hymn 007",
+    "title": "Hymn 007",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
   {
-    "Title": "Hymn 008",
+    "title": "Hymn 008",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
   {
-    "Title": "Hymn 009",
+    "title": "Hymn 009",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
   },
  {
-    "Title": "Hymn 0010",
+    "title": "Hymn 0010",
     "mcPdf": "https://randomuser.me/api/portraits/men/10.jpg",
     "soPdf": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   
